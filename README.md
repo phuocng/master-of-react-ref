@@ -19,3 +19,7 @@ Get ready to take your React skills to the next level!
 -   [03: Store a reference with callback refs](https://phuoc.ng/collection/react-ref/store-a-reference-with-callback-refs/)
 
 ![Store a reference with callback refs](/03-store-a-reference-with-callback-refs/callback-refs.png)
+
+-   [04: Access the methods of class components](https://phuoc.ng/collection/react-ref/access-the-methods-of-class-components/)
+
+![Access the methods of class components](/04-access-the-methods-of-class-components/access-methods.png)
