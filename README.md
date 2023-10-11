@@ -23,3 +23,7 @@ Get ready to take your React skills to the next level!
 -   [04: Access the methods of class components](https://phuoc.ng/collection/react-ref/access-the-methods-of-class-components/)
 
 ![Access the methods of class components](/04-access-the-methods-of-class-components/access-methods.png)
+
+-   [05: Use callback refs to access individual elements in a list](https://phuoc.ng/collection/react-ref/use-callback-refs-to-access-individual-elements-in-a-list/)
+
+![Use callback refs to access individual elements in a list](/05-use-callback-refs-to-access-individual-elements-in-a-list/access-individual-elements.png)

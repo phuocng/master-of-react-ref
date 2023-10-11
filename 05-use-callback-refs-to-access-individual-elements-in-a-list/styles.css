@@ -1,0 +1,6 @@
+.item {
+    background: rgb(203 213 225);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
