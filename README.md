@@ -27,3 +27,7 @@ Get ready to take your React skills to the next level!
 -   [05: Use callback refs to access individual elements in a list](https://phuoc.ng/collection/react-ref/use-callback-refs-to-access-individual-elements-in-a-list/)
 
 ![Use callback refs to access individual elements in a list](/05-use-callback-refs-to-access-individual-elements-in-a-list/access-individual-elements.png)
+
+-   [06: Create a reference using React.createRef()](https://phuoc.ng/collection/react-ref/create-a-reference-using-react-create-ref/)
+
+![Create a reference using React.createRef()](/06-create-a-reference-using-react-create-ref/react-create-ref.png)

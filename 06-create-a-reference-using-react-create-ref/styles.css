@@ -1,0 +1,33 @@
+.item__toggle {
+    display: flex;
+    align-items: center;
+
+    background: transparent;
+    border: none;
+    color: rgb(99 102 241);
+    cursor: pointer;
+    height: 2rem;
+    padding: 0;
+}
+.item__body {
+    overflow: hidden;
+    position: relative;
+    transition: height 250ms;
+}
+.item__body--fading::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+
+    height: 2rem;
+    width: 100%;
+
+    background: linear-gradient(rgba(203 213 225 / 0.05), #fff);
+}
+
+.truncate {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
