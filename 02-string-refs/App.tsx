@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { AccordionItem } from './AccordionItem';
+
 export default App = () => {
     return (
         <AccordionItem title="Accordion heading">

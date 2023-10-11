@@ -1,0 +1,32 @@
+.container {
+    border: 1px solid rgb(203 213 225);
+    border-radius: 0.25rem;
+    display: flex;
+    align-items: center;
+    width: 16rem;
+    overflow: hidden;
+}
+.container__input {
+    border: none;
+    flex: 1;
+    height: 3rem;
+    padding: 0 0.5rem;
+    outline: none;
+}
+.container__counter {
+    padding: 0 0.5rem;
+}
+.container__counter--warning {
+    color: rgb(239 68 68);
+    font-weight: 600;
+    animation: scale 200ms;
+}
+
+@keyframes scale {
+    0% {
+        transform: scale(1);
+    }
+    100% {
+        transform: scale(1.5);
+    }
+}

@@ -15,3 +15,7 @@ Get ready to take your React skills to the next level!
 -   [02: String refs](https://phuoc.ng/collection/react-ref/string-refs/)
 
 ![String refs](/02-string-refs/string-refs.png)
+
+-   [03: Store a reference with callback refs](https://phuoc.ng/collection/react-ref/store-a-reference-with-callback-refs/)
+
+![Store a reference with callback refs](/03-store-a-reference-with-callback-refs/callback-refs.png)
