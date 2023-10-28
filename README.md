@@ -43,3 +43,5 @@ Get ready to take your React skills to the next level!
 ![Create a reference using React.createRef()](/11-create-a-reference-using-react-create-ref/react-create-ref.png)
 
 -   [12: Reference an element with React's useRef() hook](https://phuoc.ng/collection/react-ref/reference-an-element-with-react-use-ref-hook/)
+
+-   [13: Build your own drawing board](https://phuoc.ng/collection/react-ref/build-your-own-drawing-board/)
