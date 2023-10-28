@@ -49,3 +49,5 @@ Get ready to take your React skills to the next level!
 -   [14: Drag and drop items within a list](https://phuoc.ng/collection/react-ref/drag-and-drop-items-within-a-list/)
 
 -   [15: Persist values between renders](https://phuoc.ng/collection/react-ref/persist-values-between-renders/)
+
+-   [16: Save the previous value of a variable](https://phuoc.ng/collection/react-ref/save-the-previous-value-of-a-variable/)
