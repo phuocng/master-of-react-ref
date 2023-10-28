@@ -30,6 +30,8 @@ Get ready to take your React skills to the next level!
 
 -   [06: Implement a basic container query with callback refs](https://phuoc.ng/collection/react-ref/implement-a-basic-container-query-with-callback-refs/)
 
+-   [07: Save the element passed to a callback ref as a state](https://phuoc.ng/collection/react-ref/save-the-element-passed-to-a-callback-ref-as-a-state/)
+
 -   [11: Create a reference using React.createRef()](https://phuoc.ng/collection/react-ref/create-a-reference-using-react-create-ref/)
 
 ![Create a reference using React.createRef()](/11-create-a-reference-using-react-create-ref/react-create-ref.png)
