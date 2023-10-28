@@ -45,3 +45,5 @@ Get ready to take your React skills to the next level!
 -   [12: Reference an element with React's useRef() hook](https://phuoc.ng/collection/react-ref/reference-an-element-with-react-use-ref-hook/)
 
 -   [13: Build your own drawing board](https://phuoc.ng/collection/react-ref/build-your-own-drawing-board/)
+
+-   [14: Drag and drop items within a list](https://phuoc.ng/collection/react-ref/drag-and-drop-items-within-a-list/)
