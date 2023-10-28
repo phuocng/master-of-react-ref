@@ -1,5 +1,6 @@
 import * as React from 'react';
 import { Masonry } from './Masonry';
+import './styles.css';
 
 export default App = () => {
     const randomInteger = (min: number, max: number): number => Math.floor(Math.random() * (max - min + 1)) + min;

@@ -1,4 +1,5 @@
 import { useClickOutside } from './useClickOutside';
+import './styles.css';
 
 export const Modal = ({ children, onClose }) => {
     const [ref] = useClickOutside(onClose);

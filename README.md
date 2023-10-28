@@ -34,6 +34,8 @@ Get ready to take your React skills to the next level!
 
 -   [08: Create a custom hook returning a callback ref](https://phuoc.ng/collection/react-ref/create-a-custom-hook-returning-a-callback-ref/)
 
+-   [09: Make an element draggable](https://phuoc.ng/collection/react-ref/make-an-element-draggable/)
+
 -   [11: Create a reference using React.createRef()](https://phuoc.ng/collection/react-ref/create-a-reference-using-react-create-ref/)
 
 ![Create a reference using React.createRef()](/11-create-a-reference-using-react-create-ref/react-create-ref.png)
