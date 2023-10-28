@@ -1,4 +1,5 @@
 import * as React from 'react';
+import './styles.css';
 
 export const InputCounter = ({ maxCharacters }) => {
     let inputEle: HTMLInputElement | null;
