@@ -36,6 +36,8 @@ Get ready to take your React skills to the next level!
 
 -   [09: Make an element draggable](https://phuoc.ng/collection/react-ref/make-an-element-draggable/)
 
+-   [10: Pass refs to child components using the function as a child pattern](https://phuoc.ng/collection/react-ref/pass-refs-to-child-components-using-the-function-as-a-child-pattern/)
+
 -   [11: Create a reference using React.createRef()](https://phuoc.ng/collection/react-ref/create-a-reference-using-react-create-ref/)
 
 ![Create a reference using React.createRef()](/11-create-a-reference-using-react-create-ref/react-create-ref.png)
