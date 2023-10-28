@@ -47,3 +47,5 @@ Get ready to take your React skills to the next level!
 -   [13: Build your own drawing board](https://phuoc.ng/collection/react-ref/build-your-own-drawing-board/)
 
 -   [14: Drag and drop items within a list](https://phuoc.ng/collection/react-ref/drag-and-drop-items-within-a-list/)
+
+-   [15: Persist values between renders](https://phuoc.ng/collection/react-ref/persist-values-between-renders/)

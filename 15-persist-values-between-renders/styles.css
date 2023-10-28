@@ -1,0 +1,12 @@
+.indicator {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    width: 100%;
+    height: 24rem;
+}
+
+.indicator__dragging {
+    border: 2px dashed rgb(203 213 225);
+}
