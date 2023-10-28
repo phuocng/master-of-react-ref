@@ -1,0 +1,27 @@
+.modal__overlay {
+    background: rgba(30 41 59 / 0.7);
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    cursor: pointer;
+}
+.modal__content {
+    background: #fff;
+    border: 1px solid rgb(203 213 225);
+    border-radius: 0.25rem;
+
+    padding: 0.5rem;
+    width: 50%;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
