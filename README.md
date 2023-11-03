@@ -51,3 +51,5 @@ Get ready to take your React skills to the next level!
 -   [15: Persist values between renders](https://phuoc.ng/collection/react-ref/persist-values-between-renders/)
 
 -   [16: Save the previous value of a variable](https://phuoc.ng/collection/react-ref/save-the-previous-value-of-a-variable/)
+
+-   [17: Detect whether an element is in view](https://phuoc.ng/collection/react-ref/detect-whether-an-element-is-in-view/)
