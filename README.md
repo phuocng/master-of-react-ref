@@ -53,3 +53,5 @@ Get ready to take your React skills to the next level!
 -   [16: Save the previous value of a variable](https://phuoc.ng/collection/react-ref/save-the-previous-value-of-a-variable/)
 
 -   [17: Detect whether an element is in view](https://phuoc.ng/collection/react-ref/detect-whether-an-element-is-in-view/)
+
+-   [18: Pass a ref to a custom hook](https://phuoc.ng/collection/react-ref/pass-a-ref-to-a-custom-hook/)
