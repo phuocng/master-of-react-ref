@@ -70,12 +70,28 @@ Get ready to take your React skills to the next level!
 
 -   [16: Save the previous value of a variable](https://phuoc.ng/collection/react-ref/save-the-previous-value-of-a-variable/)
 
+![Save the previous value of a variable](/16-save-the-previous-value-of-a-variable/save-previous-value.png)
+
 -   [17: Detect whether an element is in view](https://phuoc.ng/collection/react-ref/detect-whether-an-element-is-in-view/)
+
+![Detect whether an element is in view](/17-detect-whether-an-element-is-in-view/detect-in-view.png)
 
 -   [18: Pass a ref to a custom hook](https://phuoc.ng/collection/react-ref/pass-a-ref-to-a-custom-hook/)
 
+![Pass a ref to a custom hook](/18-pass-a-ref-to-a-custom-hook/pass-ref-custom-hook.png)
+
+-   [19: Merge different refs](https://phuoc.ng/collection/react-ref/merge-different-refs/)
+
+![Merge different refs](/19-merge-different-refs/merge-refs.png)
+
 -   [20: Build a tooltip component](https://phuoc.ng/collection/react-ref/build-a-tooltip-component/)
+
+![Build a tooltip component](/20-build-a-tooltip-component/tooltip.png)
 
 -   [21: Pass a ref to a child component using forwardRef()](https://phuoc.ng/collection/react-ref/pass-a-ref-to-a-child-component-using-forward-ref/)
 
+![Pass a ref to a child component using forwardRef()](/21-pass-a-ref-to-a-child-component-using-forward-ref/forward-ref.png)
+
 -   [22: Expose methods of a component using useImperativeHandle()](https://phuoc.ng/collection/react-ref/expose-methods-of-a-component-using-use-imperative-handle/)
+
+![Expose methods of a component using useImperativeHandle()](/22-expose-methods-of-a-component-using-use-imperative-handle/use-imperative-handle.png)
