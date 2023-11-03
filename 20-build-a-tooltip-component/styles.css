@@ -1,0 +1,22 @@
+.tip__content {
+    background-color: rgb(15 23 42);
+    border-radius: 0.25rem;
+    color: #fff;
+    padding: 0.25rem 0.5rem;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.tip__content::after {
+    background-color: rgb(15 23 42);
+    content: '';
+
+    position: absolute;
+    top: -0.25rem;
+    left: 50%;
+    transform: translateX(-50%) rotate(45deg);
+
+    width: 0.5rem;
+    height: 0.5rem;
+}
