@@ -59,3 +59,5 @@ Get ready to take your React skills to the next level!
 -   [20: Build a tooltip component](https://phuoc.ng/collection/react-ref/build-a-tooltip-component/)
 
 -   [21: Pass a ref to a child component using forwardRef()](https://phuoc.ng/collection/react-ref/pass-a-ref-to-a-child-component-using-forward-ref/)
+
+-   [22: Expose methods of a component using useImperativeHandle()](https://phuoc.ng/collection/react-ref/expose-methods-of-a-component-using-use-imperative-handle/)
