@@ -57,3 +57,5 @@ Get ready to take your React skills to the next level!
 -   [18: Pass a ref to a custom hook](https://phuoc.ng/collection/react-ref/pass-a-ref-to-a-custom-hook/)
 
 -   [20: Build a tooltip component](https://phuoc.ng/collection/react-ref/build-a-tooltip-component/)
+
+-   [21: Pass a ref to a child component using forwardRef()](https://phuoc.ng/collection/react-ref/pass-a-ref-to-a-child-component-using-forward-ref/)
