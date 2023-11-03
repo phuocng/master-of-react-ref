@@ -30,13 +30,23 @@ Get ready to take your React skills to the next level!
 
 -   [06: Implement a basic container query with callback refs](https://phuoc.ng/collection/react-ref/implement-a-basic-container-query-with-callback-refs/)
 
+![Implement a basic container query with callback refs](/06-implement-a-basic-container-query-with-callback-refs/basic-container-query.png)
+
 -   [07: Save the element passed to a callback ref as a state](https://phuoc.ng/collection/react-ref/save-the-element-passed-to-a-callback-ref-as-a-state/)
+
+![Save the element passed to a callback ref as a state](/07-save-the-element-passed-to-a-callback-ref-as-a-state/callback-ref-state.png)
 
 -   [08: Create a custom hook returning a callback ref](https://phuoc.ng/collection/react-ref/create-a-custom-hook-returning-a-callback-ref/)
 
+![Create a custom hook returning a callback ref](/08-create-a-custom-hook-returning-a-callback-ref/hook-returning-callback-ref.png)
+
 -   [09: Make an element draggable](https://phuoc.ng/collection/react-ref/make-an-element-draggable/)
 
+![Make an element draggable](/09-make-an-element-draggable/draggable.png)
+
 -   [10: Pass refs to child components using the function as a child pattern](https://phuoc.ng/collection/react-ref/pass-refs-to-child-components-using-the-function-as-a-child-pattern/)
+
+![Pass refs to child components using the function as a child pattern](/10-pass-refs-to-child-components-using-the-function-as-a-child-pattern/pass-refs-child-components.png)
 
 -   [11: Create a reference using React.createRef()](https://phuoc.ng/collection/react-ref/create-a-reference-using-react-create-ref/)
 
@@ -44,11 +54,19 @@ Get ready to take your React skills to the next level!
 
 -   [12: Reference an element with React's useRef() hook](https://phuoc.ng/collection/react-ref/reference-an-element-with-react-use-ref-hook/)
 
+![Reference an element with React's useRef() hook](/12-reference-an-element-with-react-use-ref-hook/use-ref.png)
+
 -   [13: Build your own drawing board](https://phuoc.ng/collection/react-ref/build-your-own-drawing-board/)
+
+![Build your own drawing board](/13-build-your-own-drawing-board/drawing-board.png)
 
 -   [14: Drag and drop items within a list](https://phuoc.ng/collection/react-ref/drag-and-drop-items-within-a-list/)
 
+![Drag and drop items within a list](/14-drag-and-drop-items-within-a-list/drag-drop-items.png)
+
 -   [15: Persist values between renders](https://phuoc.ng/collection/react-ref/persist-values-between-renders/)
+
+![Persist values between renders](/15-persist-values-between-renders/persist-values.png)
 
 -   [16: Save the previous value of a variable](https://phuoc.ng/collection/react-ref/save-the-previous-value-of-a-variable/)
 
