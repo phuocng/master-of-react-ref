@@ -55,3 +55,5 @@ Get ready to take your React skills to the next level!
 -   [17: Detect whether an element is in view](https://phuoc.ng/collection/react-ref/detect-whether-an-element-is-in-view/)
 
 -   [18: Pass a ref to a custom hook](https://phuoc.ng/collection/react-ref/pass-a-ref-to-a-custom-hook/)
+
+-   [19: Merge different refs](https://phuoc.ng/collection/react-ref/merge-different-refs/)
